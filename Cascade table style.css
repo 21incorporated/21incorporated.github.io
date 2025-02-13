@@ -1,0 +1,33 @@
+p{
+	color:red;
+}
+#gay{
+	color: black;
+	height: 100px;
+	width: 100px;
+	text-align: justify;
+}
+
+*{
+  text-align: center;
+  background-image: url("america.png");
+  width: 100vw;
+  background-repeat: no-repeat;
+  
+}
+
+#piontkovskiy{
+	background-image: url("piontkovskiy.jpg");
+	background-size: 100px 100px;
+	width: 100px;
+	height: 100px;
+}
+
+#piontkovskiy:hover {
+    width: 100vw;
+    height: 100vh;
+	background-size: 100vw 100vh;
+	
+}
+
+body { min-height: 100vh; }
